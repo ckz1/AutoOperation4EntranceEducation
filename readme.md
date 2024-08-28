@@ -1,0 +1,3 @@
+# AutoOperation4EntranceEducation
+
+用于完成入学教育的自动化脚本
